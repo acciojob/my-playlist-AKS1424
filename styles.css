@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+#my {
+	text-align:center;
+}
+
+#songn{
+border:1px solid black;
+	margin: 40px;
+	padding:30px;
+	background-color:white;
+	border-radius:15px;
+}
+.player_one{
+background-color: rgb(255, 255, 255);
+padding:10px; 
+border-radius:15px;
+width:500px;
+height:500px;
+margin-left:50px;
+	
+}
+
+.aud{
+	align-item:center;
+padding:10px; 
+border-radius:15px;
+width:500px;
+	  margin-left: 40px;
+
+}
